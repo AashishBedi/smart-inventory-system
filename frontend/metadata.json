@@ -1,0 +1,5 @@
+{
+  "name": "Smart Inventory Reservation Pro",
+  "description": "A high-performance inventory management system for flash sales featuring atomic reservations, real-time TTL tracking, and AI-driven demand forecasting.",
+  "requestFramePermissions": []
+}
